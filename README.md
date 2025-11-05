@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Siddhant</h1>
+<h1 align="center">👋 Yo! I'm Siddhant</h1>
 <h3 align="center">🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Full-Stack Developer | 🤖 AI/ML Engineering Enthusiast</h3>
 
 <div align="center">
@@ -41,7 +41,7 @@
 
 ---
 
-## 💻 Projects  
+## 💻 Recent Projects  
 
 ### ✨ Portfolio Website  
 **HTML | CSS | JS**  
@@ -78,11 +78,14 @@
 
 ---
 
-##🏆 DSA Journey
+## 🏆 DSA Journey
   
- <div align="center">
-  <img src="https://github.com/AceOfSpades-1710/AceOfSpades-1710/blob/main/assets/card.png?raw=true" alt="Codolio Profile Card" />
-</a>
+<p align="center">
+  <a href="https://codolio.com/profile/siddhantjha" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-Profile-black?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio Profile" />
+  </a>
+</p>
+
 
 </div>
 <div align="center">
