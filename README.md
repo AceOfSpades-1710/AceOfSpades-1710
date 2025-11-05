@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Siddhant</h1>
-<h3 align="center">🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Full-Stack Developer | AI/ML Engineering Enthusiast</h3>
+<h3 align="center">🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Full-Stack Developer | 🤖 AI/ML Engineering Enthusiast</h3>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AceOfSpades-1710&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <!-- Frontend -->
+  <!-- Frontend --> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
 
   <!-- Backend & DB -->
+  
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
@@ -25,10 +26,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 
   <!-- Languages -->
+  
   <img src="https://img.shields.io/badge/Python-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVA-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 
   <!-- Tools -->
+  
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
@@ -63,6 +66,31 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AceOfSpades%2D1710&theme=tokyonight&hide_border=true" />
+
+  </a>
+</p>
+
+
+---
+
+##🏆 DSA Journey
+  
+ <div align="center">
+  <img src="https://github.com/AceOfSpades-1710/AceOfSpades-1710/blob/main/assets/card.png?raw=true" alt="Codolio Profile Card" />
+</a>
+
+</div>
+<div align="center">
+🔥 Grinding DSA problems daily in Java and Python to level up my problem-solving skills!
+</div>
+
+---
+
 ## 📫 Contact Me  
 <div align="center">
   <a href="mailto:siddhant.jha.work.00@gmail.com">📧 Email</a> | 
@@ -77,8 +105,3 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AceOfSpades-1710&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-</p>
