@@ -40,6 +40,11 @@
 
 ## 💻 Projects  
 
+### ✨ Portfolio Website  
+**HTML | CSS | JS**  
+- Web page that summarizes my journey in few scrolls.  
+- Link: <a href="https://portfolio-website-git-main-sjs-projects-5e9c291d.vercel.app/" target="_blank">https://portfolio-website-git-main-sjs-projects-5e9c291d.vercel.app/</a>
+
 ### 🧭 NERO (Oct 2025)  
 **Flask | SQLite | Jinja2 | Python**  
 - Crawl Wikipedia to gather 500 pages using requests and Beautiful Soup.
@@ -55,11 +60,6 @@
 - Implements forward and backpropagation manually.
 - Uses ReLU, softmax, and cross-entropy loss.
 - Reaches about 88% accuracy without deep-learning libraries.
-
-### 🔐 AES Image Encryptor (Feb 2023 – May 2023)  
-**Python| HTML | CSS | JS | AES-256**  
-- Web tool for encrypting images securely with AES-256.  
-- Clean UI for quick uploads, deployed on GitHub Pages.
 
 ---
 
